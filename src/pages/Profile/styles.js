@@ -41,7 +41,7 @@ export const BtnRegistrar=styled(TouchableOpacity)`
   justify-content: center;
   align-items: center;
   background-color: #6A8E6E;
-  border-radius: 25px;
+  border-radius: 7px;
 `;
 
 export const BtnSair=styled(TouchableOpacity)`
@@ -53,7 +53,7 @@ export const BtnSair=styled(TouchableOpacity)`
   justify-content: center;
   align-items: center;
   background-color: #904141;
-  border-radius: 25px;
+  border-radius: 7px;
 `;
 
 export const BtnTxt=styled(Text)`
